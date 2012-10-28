@@ -3,3 +3,5 @@
 This is the first application of 
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
+
+Just added another bit to test something
